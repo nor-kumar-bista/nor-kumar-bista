@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Nor Kumar Bista"
+  navbar:
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: Portfolio.qmd
+      - text: "Skills and Certifications"      
+        file: Skills and Certifications.qmd
+      - text: "CV"
+        file: CV.qmd
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/norkumarbista
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+editor: visual
+

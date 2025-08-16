@@ -1,0 +1,15 @@
+---
+title: "Nor Kumar Bista"
+image: Profile-Picture.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href:  https://linkedin.com/in/norkumarbista
+    - icon: github
+      text: Github
+      href: https://github.com/nor-kumar-bista
+---
+
+MBA candidate at University Canada West and Operations Associate at Crate & Barrel; 9+ years in banking payments—card operations, chargebacks, reconciliation, fraud prevention. Seeking roles strengthening payments reliability in Canada.

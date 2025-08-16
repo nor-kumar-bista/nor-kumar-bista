@@ -1,0 +1,20 @@
+---
+title: "Digital Transformation Case Study: Zara"
+author: "Nor Kumar Bista, Mohammed Faisal Farook, Niyati Shah, Sandip Chhetri, Nandini Sharma
+        in affiliated with University Canada West"
+date: "2025-06-22"
+categories: [Case Study]
+image: "image.png"
+resources:
+  - zara-case-study.pdf
+---
+
+This case study was prepared by my team for the **Digital Transformation** Course for the *'Spring 2025 Term'*
+
+It delves on how RFID, AI, AR, and omnichannel operations power speed and customer experience. It also includes governance, cybersecurity, sustainability, and KPI-driven recommendations for scalable growth.
+
+[View PDF](zara-case-study.pdf)
+
+<iframe src="zara-case-study.pdf" width="100%" height="800" style="border:1px solid #ddd;">
+
+</iframe>

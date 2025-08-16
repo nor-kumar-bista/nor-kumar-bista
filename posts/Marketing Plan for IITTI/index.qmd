@@ -1,0 +1,19 @@
+---
+title: "Marketing Plan for IITTI’s World Civility Index (WCI)"
+author: "Nor Kumar Bista, Gail Dominic Ilagan Raymundo, Nguyen Ngoc Cat Tuong, Md Tanjil Hossain, Dilpreet Kaur Kaur in affiliated with University Canada West"
+date: "2025-03-17"
+categories: [Case Study]
+image: "image.jpg"
+resources:
+  - Marketing Plan for IITTI’s World Civility Index (WCI).pdf
+---
+
+This case study was prepared by my team for the **Marketing Management** Course for the *'Winter 2025 Term'*
+
+Built a go-to-market playbook for IITTI's World Civility Index—subscription learning, industry-specific packages, and gamified micro-learning—plus promotion via website overhaul, targeted digital campaigns, and university partnerships with a KPI-led roadmap to grow awareness and adoption.
+
+[View PDF](Marketing%20Plan%20for%20IITTI’s%20World%20Civility%20Index%20(WCI).pdf)
+
+<iframe src="Marketing Plan for IITTI’s World Civility Index (WCI).pdf" width="100%" height="800" style="border:1px solid #ddd;">
+
+</iframe>

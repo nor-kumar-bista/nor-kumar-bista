@@ -1,0 +1,27 @@
+Skills
+---
+\
+**Payments & Banking:**
+
+Card/POS operations; dispute & chargebacks (Visa, Mastercard, UnionPay); digital wallets & QR/UPI; merchant onboarding (QR/FonePay, POS); reconciliation & settlement; customer experience.
+
+\
+**Risk & Compliance:**
+
+Fraud detection & transaction monitoring; PCI-DSS; SOP/policy development; audit & regulatory reporting.
+
+\
+**Platforms & Tools:**
+
+Core banking (Flexcube, Finacle); Dispute platforms (MasterCom, VROL, UnionPay; Payment gateways; CRM; Microsoft Excel (lookups, PivotTables, dashboards) & Word.
+
+\
+**Collaboration & Delivery:**
+
+Cross-functional coordination (IT, Compliance, Ops); stakeholder communication; process improvement; training & mentoring.
+
+Certifications
+---
+**Certified Digital Marketing Associate** — Digital Marketing Institute
+
+**Introduction to Data Analysis Using Excel** — Coursera

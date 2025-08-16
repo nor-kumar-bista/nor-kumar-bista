@@ -1,0 +1,22 @@
+---
+title: "Analysis of Fire Incidents using data from City of Toronto (2023)"
+author: "Nor Kumar Bista, Genreid Isaiah Estrada, Samwel Anyange Nyagol, Lovelace Naa Sackeley Sackey, Loveleen Kaur in affiliated with University Canada West"
+date: "2025-03-16"
+categories: [Case Study]
+image: "thumbnail.jpg"
+resources:
+  - Fire-incident-analysis.pdf
+---
+
+This case study was prepared by my team for the **Business Analytics** Course for the *'Winter 2025 Term'.*
+
+Leveraging **City of Toronto (2023)** datasets, we apply BI and data analysis for a Safety & Fire Equipment firm (alarms, sprinklers, detectors, firefighter gear).\
+Findings inform recommendations to boost product profitability and market reach.
+
+[View PDF](Fire-incident-analysis.pdf)
+
+An interactive [dashboard](https://public.tableau.com/app/profile/nor.kumar.bista/viz/FireIncidentTFS/Dashboard1) has been developed to supplement the findings.
+
+<iframe src="Fire-incident-analysis.pdf" width="100%" height="800" style="border:1px solid #ddd;">
+
+</iframe>

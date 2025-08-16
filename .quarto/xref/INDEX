@@ -1,0 +1,35 @@
+{
+  "about.qmd": {
+    "about.html": "c79159ef"
+  },
+  "index.qmd": {
+    "index.html": "41c050b6"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "a0077de6"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "68d544c9"
+  },
+  "Portfolio.qmd": {
+    "Portfolio.html": "94cce97d"
+  },
+  "Skills and Certifications.qmd": {
+    "Skills and Certifications.html": "c15bd7a6"
+  },
+  "CV.qmd": {
+    "CV.html": "f6bdbca4"
+  },
+  "index_old.qmd": {
+    "index_old.html": "843dd0a7"
+  },
+  "posts/Zara Case Study/index.qmd": {
+    "index.html": "64b1e262"
+  },
+  "posts/Fire incident Analysis/index.qmd": {
+    "index.html": "dead798d"
+  },
+  "posts/Marketing Plan for IITTI/index.qmd": {
+    "index.html": "d3a2f465"
+  }
+}
